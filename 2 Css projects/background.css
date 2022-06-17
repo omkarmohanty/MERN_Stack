@@ -1,12 +1,12 @@
 h1{
-    background: rgb(255,80,80);
+    background: rgba(185, 81, 154, 0.76);
     /* border-color:blue;
     border-width: 5px;
     border-style: solid; */
   
     /* border:5px solid blue; */
   
-    border:2px dashed blue;
+    border:2px dashed rgba(128, 128, 221, 0.733);
   }
   
   body{
